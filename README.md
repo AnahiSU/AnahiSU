@@ -1,7 +1,7 @@
 <h1 align="center"> Hi! Please, enjoy my place :) </h1>
-## I'm a passionate about technology and illustration, here are my projects so you can see what I'm working on!
-### Freelancer, UMSS student, loves dogs
-### @anahi_su
+<h2>I'm a passionate about technology and illustration, here are my projects so you can see what I'm working on!</h2> 
+<h3>Freelancer, UMSS student, loves dogs</h3> 
+<h3> @anahi_su</h3>
 <p align="left">
    <img src="">
    </p>
