@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi! Please enjoy my place :)
+## I'm a passionate about technology and illustration, here are my projects!#
+# UMSS, Cochabamba, Bolivia
 
-<!--
-**AnahiSU/AnahiSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+~~~
+for(int i; i < life; i++){
+  status = "coding or drawing";
+  place = "probably at university";
+  age = 18;
+  hobby = "read and learn";
+  languages = "english and spanish";
+  job = "available to work";
+  semester = 1;
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  if(date == 03-08){
+    age += 1;
+  }
+}  
+~~~
