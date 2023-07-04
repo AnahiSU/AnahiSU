@@ -1,6 +1,6 @@
-### Hi! Please enjoy my place :)
+# Hi! Please enjoy my place :)
 ## I'm a passionate about technology and illustration, here are my projects!#
-# UMSS, Cochabamba, Bolivia
+###UMSS, Cochabamba, Bolivia
 
 ~~~
 for(int i; i < life; i++){
