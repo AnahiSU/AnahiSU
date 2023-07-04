@@ -3,7 +3,7 @@
 <h3>Freelancer, UMSS student, loves dogs</h3> 
 <h3> @anahi_su</h3>
 <p align="left">
-   <img src="">
+   <img src="https://github.com/AnahiSU/AnahiSU/blob/main/github_README.png">
    </p>
 <code>
 for(int i; i < life; i++){
