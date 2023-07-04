@@ -5,7 +5,7 @@
 <p align="left">
    <img src="">
    </p>
-~~~
+<code>
 for(int i; i < life; i++){
   status = "coding or drawing";
   place = "probably at university";
@@ -19,4 +19,4 @@ for(int i; i < life; i++){
     age += 1;
   }
 }  
-~~~
+</code>
