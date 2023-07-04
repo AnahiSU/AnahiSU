@@ -3,7 +3,7 @@
 <h3>Freelancer, UMSS student, loves dogs</h3> 
 <h3> @anahi_su</h3>
 <p align="center">
-   <img src="https://github.com/AnahiSU/AnahiSU/blob/main/github_README.png" width = "600">
+   <img src="https://github.com/AnahiSU/AnahiSU/blob/main/github_README.png" width = "500">
    </p>
 
     for(int i; i < life; i++){
