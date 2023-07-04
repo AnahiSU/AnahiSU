@@ -2,7 +2,7 @@
 <h2>I'm a passionate about technology and illustration, here are my projects so you can see what I'm working on!</h2> 
 <h3>Freelancer, UMSS student, loves dogs</h3> 
 <h3> @anahi_su</h3>
-<p align="left">
+<p align="center">
    <img src="https://github.com/AnahiSU/AnahiSU/blob/main/github_README.png" width = "600">
    </p>
 <code>
