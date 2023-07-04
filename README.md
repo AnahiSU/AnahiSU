@@ -5,9 +5,9 @@
 <p align="center">
    <img src="https://github.com/AnahiSU/AnahiSU/blob/main/github_README.png" width = "600">
    </p>
-<code>
-for(int i; i < life; i++){
-                
+```
+   for(int i; i < life; i++){
+   
      status = "coding or drawing";
      place = "probably at university";
      age = 18;
@@ -19,5 +19,6 @@ for(int i; i < life; i++){
      if(date == 03-08){
        age += 1;
      }
-}  
-</code>
+   }
+   
+```
