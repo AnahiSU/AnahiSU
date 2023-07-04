@@ -5,8 +5,8 @@
 
 
 <p align="left">
-<a href="[https://www.linkedin.com/in/anahisu/](https://www.linkedin.com/in/anahisu/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anahiSu" height="30" width="40" /></a>
-<a href="[https://www.instagram.com/anahi_s.u/](https://www.instagram.com/anahi_s.u/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anahi_s.u" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anahisu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anahiSu" height="30" width="40" /></a>
+<a href="https://www.instagram.com/anahi_s.u/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anahi_s.u" height="30" width="40" /></a>
 
 <p align="center">
    <img src="https://github.com/AnahiSU/AnahiSU/blob/main/github_README.png" width = "500">
