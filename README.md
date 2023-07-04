@@ -5,20 +5,17 @@
 <p align="center">
    <img src="https://github.com/AnahiSU/AnahiSU/blob/main/github_README.png" width = "600">
    </p>
-```
-   for(int i; i < life; i++){
-   
-     status = "coding or drawing";
-     place = "probably at university";
-     age = 18;
-     hobby = "read and learn";
-     languages = "english and spanish";
-     job = "available to work";
-     semester = 1;
-                
-     if(date == 03-08){
-       age += 1;
-     }
-   }
-   
-```
+
+    for(int i; i < life; i++){
+        status = "coding or drawing";
+        place = "probably at university";
+        age = 18;
+        hobby = "read and learn";
+        languages = "english and spanish";
+        job = "available to work";
+        semester = 1;
+                   
+        if(date == 03-08){
+          age += 1;
+        }
+    }
