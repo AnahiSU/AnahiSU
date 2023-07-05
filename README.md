@@ -4,7 +4,7 @@
 
 
 <p align="center">
-   <img src="https://github.com/AnahiSU/AnahiSU/blob/main/github_README.png" width = "500">
+   <img src="https://github.com/AnahiSU/AnahiSU/blob/main/GitHub_mainREADME.png" width = "500">
    </p>
 
     for(int i; i < life; i++){
