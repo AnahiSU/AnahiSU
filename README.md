@@ -7,14 +7,14 @@
    <img src="https://github.com/AnahiSU/AnahiSU/blob/main/GitHub_mainREADME.png" width = "500">
    </p>
 
-    for(int i; i < life; i++){
+    for(int i = 0; i < life; i++){
         status = "coding or drawing";
         place = "probably at university";
-        age = 18;
+        age = 19;
         hobby = "read and learn";
         languages = "english and spanish";
         job = "available to work";
-        semester = 1;
+        semester = 3;
                    
         if(date == 03-08){
           age += 1;
