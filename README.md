@@ -10,13 +10,13 @@
     for(int i = 0; i < life; i++){
         status = "coding or drawing";
         place = "probably at university";
-        age = 19;
+        age = 20;
         hobby = "read and learn";
         languages = "english and spanish";
         job = "available to work";
-        semester = 3;
+        semester = 4;
                    
-        if(date == 03-08){
+        if(date == 03/08){
           age += 1;
         }
     }
