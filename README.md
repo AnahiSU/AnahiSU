@@ -2,10 +2,10 @@
 
 <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="30%" align="center" valign="top" style="border: none;">
+    <td width="50%" align="center" valign="top" style="border: none;">
       <img src="yo.png" width="100%" alt="yo" style="border-radius: 10px;" />
     </td>
-    <td width="70%" valign="top" style="border: none; padding-left: 20px;">
+    <td width="50%" valign="top" style="border: none; padding-left: 20px;">
       <p>
         I'm passionate about technology and illustration, here are my projects so you can see what I'm working on!
         Freelancer, UMSS student, loves dogs. 🐾
