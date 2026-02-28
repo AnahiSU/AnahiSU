@@ -2,7 +2,7 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="250px" align="center" valign="top">
+    <td width="30%" align="center" valign="top">
       <img src="yo.png" width="250px" alt="yo" style="border-radius: 10px; display: block;" />
     </td>
     <td valign="top" style="padding-left: 20px;">
@@ -10,7 +10,7 @@
         I'm passionate about technology and illustration, here are my projects so you can see what I'm working on!
         Freelancer, UMSS student, loves dogs. 🐾
       </p>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnahiSU&theme=tokyonight" width="100%" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnahiSU&theme=tokyonight" width="80%" />
       <br><br>
       <table border="0" cellspacing="0" cellpadding="0">
         <tr>
