@@ -14,7 +14,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnahiSU&theme=tokyonight" width="30%" />
     <br>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnahiSU&theme=tokyonight" width="30%" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnahiSU&theme=tokyonight&utcOffset=4" width="30%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnahiSU&theme=tokyonight&utcOffset=-4" width="30%" />
   </div>
   </p>
   <p align="center">
