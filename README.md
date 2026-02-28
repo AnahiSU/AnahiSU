@@ -3,19 +3,25 @@
 <table border="0">
   <tr>
     <td width="30%" align="center" valign="top">
-      <img src="yo.png" width="200px" style="border-radius: 50%;" alt="yo" />
-      <br><br>
-      <b>Contact:</b> <a href="anahi.sanabria.ugarte@gmail.com"> my mail </a>
+      <img src="yo.png" height="100%" alt="yo" style="border-radius: 10px;" />
     </td>
     <td width="70%" valign="top">
       <p>
-        I'm a passionate about technology and illustration, here are my projects so you can see what I'm working on!
-        Freelancer, UMSS student, loves dogs.
+        I'm passionate about technology and illustration, here are my projects so you can see what I'm working on!
+        Freelancer, UMSS student, loves dogs. 🐾
       </p>
-      <h3>Stats</h3>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnahiSU&theme=tokyonight" width="100%" />
       <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnahiSU&layout=compact&theme=radical&hide_border=true" width="80%" />
+      <table border="0">
+        <tr>
+          <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnahiSU&theme=tokyonight" width="100%" /></td>
+          <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnahiSU&theme=tokyonight" width="100%" /></td>
+        </tr>
+        <tr>
+          <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnahiSU&theme=tokyonight" width="100%" /></td>
+          <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnahiSU&theme=tokyonight&utcOffset=4" width="100%" /></td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
