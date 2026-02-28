@@ -24,8 +24,13 @@
     <font size="1" color="grey"><i>Illustration on the left side by me. DO NOT USE.</i></font>
   </p>
   <p align="center"><img src="https://i.pinimg.com/originals/11/63/79/1163796874424e1a79433f3afd0ee2fe.gif" width="70%" /></p>
-  <p align="center">
-    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" />
-    </p>
-  
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" 
+       alt="Jokes Card" 
+       style="vertical-align: middle;" />
+  <img src="https://i.pinimg.com/originals/2d/92/ac/2d92accdc77f74ad3949c6edb5b49686.gif" 
+       width="200" 
+       alt="image" 
+       style="vertical-align: middle;" />
+</p>
 </div>
